@@ -2,7 +2,7 @@
 
 echo 'my new feature';
 
-//demo-comment
+//demo-comment 2
 function demo(){
 
 }
